@@ -44,7 +44,7 @@ export const About = () => {
                     </h2>
 
                     <div className="rounded-xl p-8 border-white/12 border hover:-translate-y-1 transition-all">
-                        <p className="text-gray-300 text-justify mb-6">
+                        <p className="text-gray-300 mb-6">
                             A passionate and results-driven Software Engineer with expertise in
                             full-stack development, cloud technologies, and agile methodologies.
                             Adept at designing, developing, and maintaining high-performance
@@ -97,7 +97,7 @@ export const About = () => {
                                     {" "}
                                     <span className="font-bold">Junior Software Engineer</span> | Telstra Health, Melbourne | March 2022 – February 2025{" "}
                                 </h4>
-                                <p className="pl-2 text-justify text-sm">
+                                <p className="pl-2 text-sm">
                                     Developed and maintained enterprise healthcare applications while collaborating
                                     with cross-functional teams in an agile environment. Led performance optimization
                                     initiatives to enhance system efficiency.
@@ -123,7 +123,7 @@ export const About = () => {
                                     {" "}
                                     <span className="font-bold">Full-Stack Developer</span> | Avonet Technologies, Sri Lanka | June 2017 – January 2020{" "}
                                 </h4>
-                                <p className="pl-2 text-justify text-sm">
+                                <p className="pl-2 text-sm">
                                     Built high-performing full-stack applications with an emphasis on scalability and maintainability.
 
                                     <ul className="space-y-2 pt-2 text-gray-300">
